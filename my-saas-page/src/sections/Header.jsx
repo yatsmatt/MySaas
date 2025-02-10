@@ -39,7 +39,7 @@ function Header() {
                             </div>
                             <div className='dot'/>
                             <div>
-                              <NavLink title="pricing"/>
+                              <NavLink title="project"/>
                             </div>
                         </li>
                         <li className='nav-logo'>
