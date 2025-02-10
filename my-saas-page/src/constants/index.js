@@ -1,246 +1,142 @@
 export const features = [
   {
     id: "0",
-    icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
-    button: {
-      icon: "/images/magictouch.svg",
-      title: "Watch the demo",
-    },
+    icon: "https://www.svgrepo.com/show/124537/degree.svg",
+    caption: "Education",
+    title: "Bachelor of Computer Science",
+    text: "I hold a Bachelor of Science in Computer Science from Sapir Academic College, where I built expertise in algorithms, data structures, and software development. My studies included hands-on projects and a team-based final project, which strengthened my technical skills and collaboration abilities.",
   },
   {
     id: "1",
-    icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
-    button: {
-      icon: "/images/docs.svg",
-      title: "Read the docs",
-    },
+    icon: "https://www.svgrepo.com/show/295412/development-web-development.svg",
+    caption: "Developer",
+    title: "Passionate software developer",
+    text: "I am passionate about exploring new technologies and development tools, with a strong curiosity for algorithms and design patterns. I enjoy learning and expanding my knowledge, even though my journey has its ups and downs. My experience spans a variety of technologies, showcasing my versatility and eagerness to grow.",
   },
 ];
 export const details = [
   {
     id: "0",
-    icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    icon: "https://www.svgrepo.com/show/452234/java.svg",
+    title: "Java",
   },
   {
     id: "1",
-    icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    icon: "https://www.svgrepo.com/show/452091/python.svg",
+    title: "Python",
   },
   {
     id: "2",
-    icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+    title: "C++",
   },
   {
     id: "3",
-    icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
-  },
-];
-
-export const faq = [
-  {
-    id: "0",
-    question: "How easy is it to setup Xora?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "1",
-    question: "Can I integrate Xora with other platforms?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "2",
-    question: "How often do you add new content?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "3",
-    question: "What your refund policy?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/439022/typescript.svg",
+    title: "TypeScript",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/353925/javascript.svg",
+    title: "JavaScript",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg",
+    title: "React.js",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/452156/angular.svg",
+    title: "Angular",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/452075/node-js.svg",
+    title: "Node.js",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg",
+    title: "Spring Boot.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+    icon: "https://www.svgrepo.com/show/452228/html-5.svg",
+    title: "HTML",
+  },
+  {
+    id: "10",
+    icon: "https://www.svgrepo.com/show/452185/css-3.svg",
+    title: "CSS",
+  },
+  {
+    id: "11",
+    icon: "https://www.svgrepo.com/show/374118/tailwind.svg",
+    title: "Tailwind",
+  },
+  {
+    id: "12",
+    icon: "https://www.svgrepo.com/show/373554/django.svg",
+    title: "Django",
+  },
+  {
+    id: "13",
+    icon: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
+    title: "Flask",
+  },
+  {
+    id: "14",
+    icon: "https://www.svgrepo.com/show/331760/sql-database-generic.svg",
+    title: "SQL",
+  },
+  {
+    id: "15",
+    icon: "https://www.svgrepo.com/show/331488/mongodb.svg",
+    title: "MongoDB",
+  },
+  {
+    id: "16",
+    icon: "https://www.svgrepo.com/show/3968/linux.svg",
+    title: "Linux",
+  },
+  {
+    id: "17",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+    title: "Windows",
+  },
+  {
+    id: "17",
+    icon: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg",
+    title: "git",
   },
 ];
-
-export const plans = [
+export const projects = [
   {
-    id: "0",
-    title: "Core",
-    priceMonthly: 19,
-    priceYearly: 12,
-    caption: "Best for solo creators",
-    features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
-    ],
-    icon: "/images/circle.svg",
-    logo: "/images/plan-1.png",
+    title: "Item 1",
+    content: "This is the content for item 1.",
+    image:
+      "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17-768x461.jpg",
+    icon: "icon1.png",
   },
   {
-    id: "1",
-    title: "Overdrive",
-    priceMonthly: 79,
-    priceYearly: 59,
-    caption: "Most popular plan",
-    features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
-    ],
-    icon: "/images/triangle.svg",
-    logo: "/images/plan-2.png",
+    title: "Item 2",
+    content: "This is the content for item 2.",
+    image: "https://www.celoxis.com/cassets/img/pmc/project-management.png",
+    icon: "icon2.png",
   },
   {
-    id: "2",
-    title: "Team",
-    priceMonthly: 39,
-    priceYearly: 29,
-    caption: "Exclusively for teams",
-    features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
-    ],
-    icon: "/images/hexagon.svg",
-    logo: "/images/plan-3.png",
-  },
-];
-
-export const testimonials = [
-  {
-    id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
-    avatarUrl: "/images/testimonials/jessica-saunders.png",
-    comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+    title: "Item 3",
+    content: "This is the content for item 3.",
+    image:
+      "https://www.celoxis.com/cassets/img/pmc/main-areas-project-management.png",
+    icon: "icon3.png",
   },
   {
-    id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
-    avatarUrl: "/images/testimonials/mark-erixon.png",
-    comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
-  },
-  {
-    id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
-    avatarUrl: "/images/testimonials/melanie-hurst.png",
-    comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
-  },
-  {
-    id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
-    avatarUrl: "/images/testimonials/alicia-barker.png",
-    comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
-  },
-  {
-    id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
-    avatarUrl: "/images/testimonials/becky-snider.png",
-    comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
-  },
-  {
-    id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
-    avatarUrl: "/images/testimonials/jim-bradley.png",
-    comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
-  },
-];
-
-export const logos = [
-  {
-    id: "0",
-    title: "Afterpay",
-    url: "/images/logos/afterpay.svg",
-    width: 156,
-    height: 48,
-  },
-  {
-    id: "1",
-    title: "Amplitude",
-    url: "/images/logos/amplitude.svg",
-    width: 194,
-    height: 48,
-  },
-  {
-    id: "2",
-    title: "Sonos",
-    url: "/images/logos/sonos.svg",
-    width: 115,
-    height: 48,
-  },
-  {
-    id: "3",
-    title: "Maze",
-    url: "/images/logos/maze.svg",
-    width: 142,
-    height: 48,
-  },
-  {
-    id: "4",
-    title: "Drips",
-    url: "/images/logos/drips.svg",
-    width: 77,
-    height: 48,
+    title: "Item 4",
+    content: "This is the content for item 4.",
+    image:
+      "https://plus.unsplash.com/premium_photo-1661290256778-3b821d52c514?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    icon: "icon4.png",
   },
 ];
